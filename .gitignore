@@ -82,3 +82,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Project-AndroidStudio/.idea/
+Project-AndroidStudio/magicfilter/.externalNativeBuild/
